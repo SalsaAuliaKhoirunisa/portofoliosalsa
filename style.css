@@ -307,6 +307,7 @@ h1.name span {
   .hero-art {
     order: -1;
     max-width: 280px;
+    width: 100%;
     margin: 0 auto;
   }
 }
